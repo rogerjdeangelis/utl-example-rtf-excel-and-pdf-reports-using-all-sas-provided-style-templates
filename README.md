@@ -4,9 +4,9 @@ Example rtf excel and pdf reports using all sas provided style templates
 
     Example rtf excel and pdf reports using all sas provided style templates
 
-    github
-    https://tinyurl.com/4cy4fyhp
-    https://github.com/rogerjdeangelis/uutl-example-rtf-excel-and-pdf-reports-using-all-sas-provided-style-templates
+    github                                                                                                          
+    https://tinyurl.com/578b9f2z                                                                                    
+    https://github.com/rogerjdeangelis/utl-example-rtf-excel-and-pdf-reports-using-all-sas-provided-style-templates 
 
     EXCEL
     https://tinyurl.com/3db5mrf7
